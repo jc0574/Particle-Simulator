@@ -1,6 +1,5 @@
 import static com.google.common.truth.Truth.assertThat;
 import static com.google.common.truth.Truth.assertWithMessage;
-import java.util.HashMap;
 import java.util.Map;
 import org.junit.Test;
 import java.util.*;

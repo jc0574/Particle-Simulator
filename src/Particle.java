@@ -1,9 +1,6 @@
-import org.reflections.vfs.Vfs;
 import edu.princeton.cs.algs4.StdRandom;
-import javax.servlet.http.Part;
 import java.util.Map;
 import java.awt.Color;
-import java.util.regex.Pattern;
 
 
 public class Particle {
